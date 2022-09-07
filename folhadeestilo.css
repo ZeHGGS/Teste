@@ -1,0 +1,13 @@
+p { 
+	color : black; font-size: 16px;
+}
+body {
+	background-image: url("tenor.gif"),url("https://pa1.narvii.com/6541/edddf8d97833bb6d73ddc7940e0817eeda270c4d_hq.gif"),url("https://i.gifer.com/origin/a8/a841caf32acf1549d21dca42a41ebcc9_w200.gif");
+	background-position: 850px 7px, 400px 490px, 230px 730px;
+	background-repeat: no-repeat;
+	background-attachment: fixed, scroll, scroll;
+	background-size: 1000px 1000px, 180px 180px, 150px 150px;
+}
+ul {
+	list-style-image: url("prog.png");
+}
